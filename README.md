@@ -10,7 +10,6 @@ A content-based movie recommendation web app built using **Python**, **Streamlit
 - 🖼️ Fetch movie posters dynamically using TMDb API  
 - 🧠 Uses **cosine similarity** on movie tags for recommendation  
 - 💡 Built with **Streamlit** for an interactive web UI  
-- 🎨 Background image included for aesthetic design  
 
 ---
 ## 🛠️ Technologies Used
@@ -19,16 +18,6 @@ Pandas, NumPy
 Scikit-learn
 Streamlit
 TMDb API
-
-## Project Structure
-├── app.py
-├── movies.csv
-├── similarity.pkl
-├── movie_dict.pkl
-├── background_img.png
-├── style.css
-├── requirements.txt
-└── README.md
 
 ## 🧪 How It Works
 
