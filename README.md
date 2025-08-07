@@ -13,10 +13,10 @@ A content-based movie recommendation web app built using **Python**, **Streamlit
 
 ---
 ## 🛠️ Technologies Used
-Python
-Pandas, NumPy
-Scikit-learn
-Streamlit
+Python,
+Pandas, NumPy,
+Scikit-learn,
+Streamlit,
 TMDb API
 
 ## 🧪 How It Works
@@ -40,3 +40,4 @@ Run the app locally:
 ```bash
 
 streamlit run app.py
+
