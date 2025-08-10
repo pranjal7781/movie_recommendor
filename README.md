@@ -38,6 +38,6 @@ api_key = "your_api_key_here"
 
 Run the app locally:
 ```bash
-
 streamlit run app.py
+
 
