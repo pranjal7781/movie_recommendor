@@ -37,10 +37,11 @@ api_key = "your_api_key_here"
 ## 🚀 Demo
 
 Run the app locally:
-```bash
-streamlit run app.py```
+
+```streamlit run app.py```
 
 
 ---
+
 
 
